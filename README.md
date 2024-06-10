@@ -1,5 +1,5 @@
 # DOM MANIPULATION WITH FORMS
-### Day 15 Task 1 of 3 
+### Day 15 Task 1 of 2
 
 A form and table is created using `HTML, CSS, BOOTSTRAP and JS` 
 

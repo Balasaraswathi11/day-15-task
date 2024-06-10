@@ -1,0 +1,63 @@
+*{
+    background-color: grey;
+}
+
+.textcontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bossdiv{
+    width: 500px;
+    background-color: aliceblue;
+}
+#form{
+   padding-left: 100px;
+   background-color: inherit;
+   margin-bottom: 10px;
+}
+label{
+    background-color: aliceblue;
+}
+
+
+input{
+    background-color: inherit;
+}
+input[type='text']{
+    width: 300px;
+
+}
+input[type='email']{
+    width: 300px;
+}
+textarea{
+    width: 300px;
+    background-color: aliceblue;
+}
+input[type='radio']{
+    width: 100px;
+}
+input[type='checkbox']{
+    margin-top: 8px;
+
+
+}
+.checkboxes{
+    background-color: aliceblue;
+}
+.cb{
+    background-color: aliceblue;
+}
+.form-group{
+    margin: 20px 0;
+    background-color: aliceblue;
+}
+
+table,td,th{
+    border: black solid 2px !important;
+    border-collapse: collapse !important;
+    background-color: burlywood !important;
+}
